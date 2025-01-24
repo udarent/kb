@@ -1,6 +1,6 @@
-site_name: Jiegec's Knowledge Base
-site_url: https://jia.je/kb
-site_description: Knowledge Base of @jiegec
+site_name: cy's Knowledge Base
+site_url: https://udarent.github.io/kb/
+site_description: Knowledge Base of @udarent
 theme:
   custom_dir: overrides
   icon:
@@ -31,7 +31,7 @@ plugins:
         - locale: zh
           name: 中文
           default: true
-          site_name: 杰哥的知识库
+          site_name: cy的知识库
           nav_translations:
             Hardware: 硬件
             Networking: 网络
@@ -53,8 +53,8 @@ extra:
   analytics:
     provider: google
     property: G-3109FRSVTT
-copyright: Copyright &copy; 2023 Jiajie Chen
-repo_url: https://github.com/jiegec/kb
+copyright: Copyright &copy; 2024 cy
+repo_url: https://udarent.github.io/kb/
 edit_uri: edit/main/docs/
 markdown_extensions:
   - attr_list
