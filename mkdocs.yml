@@ -54,7 +54,7 @@ extra:
     provider: google
     property: G-3109FRSVTT
 copyright: Copyright &copy; 2024 cy
-repo_url: https://udarent.github.io/kb/
+repo_url: https://github.com/udarent/kb/
 edit_uri: edit/main/docs/
 markdown_extensions:
   - attr_list
